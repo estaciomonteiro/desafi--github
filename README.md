@@ -1,3 +1,3 @@
 # desafi--github
-Desafio de projeto sobre Git/Github
+Cumprindo o primeiro desafio do OrangeTech
 Meu primeiro programa sincronizado com o Git/Github
